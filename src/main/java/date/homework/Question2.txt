@@ -1,0 +1,3 @@
+1. write a method which take 2 params Dates in string format and return difference in days between them "yyyy-mm-dd"
+
+2. write a method which takes a sting in format yyyy-dd-mm and return string in format yyyy-mm-dd
